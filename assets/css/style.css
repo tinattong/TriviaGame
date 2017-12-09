@@ -1,0 +1,49 @@
+body  {
+    background-image: url("http://wallpapercave.com/wp/xX2GRj6.gif");
+}
+
+h1 {
+	background-color: blue;
+	padding: 20px;
+	color: red;
+	text-indent: 400px;
+	font-size: : 200px;
+}
+
+.answerchoice{
+	font-size: 20px;
+	padding: 10px;
+	margin-top: 40px;
+	background-color: beige;
+	color: black;
+	margin-left: 20px;
+}
+
+.question{
+	font-size: 20px;
+	color: white;
+	margin-left: 20px;
+}
+
+.timer{
+	font-size: 20px;
+	color: white;
+	margin-top: 40px;
+	margin-bottom: 40px;
+	margin-left: 20px;
+}
+
+.correctAnswer{
+	color: white;
+	font-size: 20px;
+}
+
+.incorrectAnswer{
+	color: white;
+	font-size: 20px;
+}
+
+.unanswer{
+	color: white;
+	font-size: 20px;
+}
